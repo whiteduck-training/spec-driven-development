@@ -32,7 +32,7 @@ sequenceDiagram
 
 ## Project Starters (pick one to ship a slice)
 
-### Option A — PM Briefing Tool (from the prompt)
+### Option A — PM Briefing Tool
 **Description**: Generate a sprint “PM Briefing” for GitHub or Azure DevOps.
 **Core features**
 - Integrations: GitHub and ADO (issues/work items, sprints).
@@ -63,8 +63,6 @@ sequenceDiagram
 ```
 
 ---
-
-## Five more fun starters (designed for excitement and teachable moments)
 
 ### Option C — MCP Permissions Auditor
 **Description**: Point at an MCP server manifest and produce a **risk report** (scopes, filesystem access, network calls). Simulate “dry‑run” tool actions and score risk.
