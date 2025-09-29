@@ -54,6 +54,16 @@ Open the folder in your agent (e.g., VS Code with Copilot Chat) and verify that 
     ```
     /constitution Emphasize testing, accessibility, and performance budgets. Enforce TypeScript strict mode and 95% unit test coverage on core domain.
     ```
+    or
+    ```
+    /constitution Create principles focused on code quality, testing standards, user experience consistency, and performance requirements
+    ```
+    or
+    ```
+    /constitution Create principles focused on code quality, testing standards, user experience consistency, and performance requirements. Use "uv init --package -p 3.12" for initializing a project, "uv add" to add packages, "uv run" to execute stuff.
+    After every task and unit of work commit it and push it.
+    ```
+
 2. Then create your first spec:
     ```
     /specify Build a minimal web app that stores timeboxed notes. Each note has a title, tags, and 1-minute timer. Offline-first, local data.

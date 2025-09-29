@@ -5,6 +5,9 @@
 ## What is Spec‑Driven Development (SDD)?
 Spec‑Driven Development puts **a living specification** at the center of your workflow. You describe **what** should exist and **why**, then derive a **plan**, **tasks**, and **tests**. AI coding agents execute the plan, but the spec remains the single source of truth. As the system evolves, you update the spec and regenerate plans/tasks — not the other way around.
 
+GitHub definition
+>Spec-Driven Development flips the script on traditional software development. For decades, code has been king — specifications were just scaffolding we built and discarded once the "real work" of coding began. Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them.
+
 ### Why now
 - AI coding agents can implement multi‑step work, but they do best when the **context is explicit and structured**.
 - Specs enable repeatability across agents, repos, and contributors.
