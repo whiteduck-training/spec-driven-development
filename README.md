@@ -8,6 +8,8 @@ Spec‑Driven Development puts **a living specification** at the center of your 
 GitHub definition
 >Spec-Driven Development flips the script on traditional software development. For decades, code has been king — specifications were just scaffolding we built and discarded once the "real work" of coding began. Spec-Driven Development changes this: specifications become executable, directly generating working implementations rather than just guiding them.
 
+https://github.com/github/spec-kit/blob/main/spec-driven.md
+
 ### Why now
 - AI coding agents can implement multi‑step work, but they do best when the **context is explicit and structured**.
 - Specs enable repeatability across agents, repos, and contributors.
